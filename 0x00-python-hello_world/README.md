@@ -1,1 +1,1 @@
-my first python project
+Working with scripts
